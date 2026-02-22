@@ -23,9 +23,10 @@
     {"id": "prod-3fc8e278-017", "name": "Elite Item 17", "category": "home", "price": 222.47, "stock": 15, "rating": 4.7}
   ],
   "aggregations": {
-    "books": {
-      "count": 3,
-      "inventoryValue": 97570.77
-    }
+    "home": {"count": 6, "inventoryValue": 160276.73},
+    "clothing": {"count": 3, "inventoryValue": 87347.82},
+    "electronics": {"count": 4, "inventoryValue": 95547.45},
+    "books": {"count": 3, "inventoryValue": 97570.77},
+    "sports": {"count": 1, "inventoryValue": 5019.96}
   }
 }
