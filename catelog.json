@@ -1,0 +1,31 @@
+{
+  "metadata": {
+    "email": "23f2005610@ds.study.iitm.ac.in",
+    "version": "3fc8e278"
+  },
+  "products": [
+    {"id": "prod-3fc8e278-001", "name": "Basic Item 1", "category": "home", "price": 262.31, "stock": 194, "rating": 2.3},
+    {"id": "prod-3fc8e278-002", "name": "Basic Item 2", "category": "clothing", "price": 346.65, "stock": 148, "rating": 4.2},
+    {"id": "prod-3fc8e278-003", "name": "Basic Item 3", "category": "electronics", "price": 68.83, "stock": 130, "rating": 1.1},
+    {"id": "prod-3fc8e278-004", "name": "Basic Item 4", "category": "books", "price": 385.86, "stock": 105, "rating": 3.2},
+    {"id": "prod-3fc8e278-005", "name": "Standard Item 5", "category": "sports", "price": 38.03, "stock": 132, "rating": 1.5},
+    {"id": "prod-3fc8e278-006", "name": "Pro Item 6", "category": "home", "price": 268.58, "stock": 28, "rating": 1},
+    {"id": "prod-3fc8e278-007", "name": "Standard Item 7", "category": "books", "price": 115.68, "stock": 85, "rating": 1.4},
+    {"id": "prod-3fc8e278-008", "name": "Basic Item 8", "category": "home", "price": 182.22, "stock": 44, "rating": 3.9},
+    {"id": "prod-3fc8e278-009", "name": "Standard Item 9", "category": "electronics", "price": 397.49, "stock": 105, "rating": 1.4},
+    {"id": "prod-3fc8e278-010", "name": "Pro Item 10", "category": "clothing", "price": 444.65, "stock": 20, "rating": 3.1},
+    {"id": "prod-3fc8e278-011", "name": "Elite Item 11", "category": "home", "price": 70.59, "stock": 38, "rating": 2.3},
+    {"id": "prod-3fc8e278-012", "name": "Basic Item 12", "category": "electronics", "price": 342.45, "stock": 124, "rating": 2.5},
+    {"id": "prod-3fc8e278-013", "name": "Premium Item 13", "category": "clothing", "price": 122.12, "stock": 98, "rating": 4.5},
+    {"id": "prod-3fc8e278-014", "name": "Premium Item 14", "category": "books", "price": 390.27, "stock": 121, "rating": 2.9},
+    {"id": "prod-3fc8e278-015", "name": "Elite Item 15", "category": "electronics", "price": 15.72, "stock": 117, "rating": 4.3},
+    {"id": "prod-3fc8e278-016", "name": "Premium Item 16", "category": "home", "price": 368.45, "stock": 163, "rating": 4.1},
+    {"id": "prod-3fc8e278-017", "name": "Elite Item 17", "category": "home", "price": 222.47, "stock": 15, "rating": 4.7}
+  ],
+  "aggregations": {
+    "books": {
+      "count": 3,
+      "inventoryValue": 97570.77
+    }
+  }
+}
